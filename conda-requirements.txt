@@ -1,6 +1,0 @@
-dill
-flask
-pip
-pickle
-nltk
-spacy
