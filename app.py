@@ -8,6 +8,7 @@ import spacy
 nlp = spacy.load('en_core_web_sm');
 
 KW_dict = pickle.load(open("Keyword.pkl", "rb"))
+KW_dict_s = pickle.load(open("Keyword_s.pkl", "rb"))
 Topic_dict = pickle.load(open("Topic.pkl", "rb"))
 
 stopwords = nltk.corpus.stopwords.words('english')
@@ -32,7 +33,7 @@ def get_recommendation(user_prf, KW_dict):
 
     rcm_company = []
     for i in range(5):
-        rcm_company.append('#' + str(i + 1) + ': ' + str(sorted_score[i][0]))
+        rcm_company.append('#' + str(i + 1) + ': ' + str(sorted_score[i][0].capitalize()))
 
     return rcm_company
 
@@ -46,7 +47,7 @@ def index():
 def login():
     if request.method == 'POST':
         target_company = request.form['target_company']
-        company = target_company
+        company = target_company.capitalize()
         return render_template('graph.html', company=company)
     if request.method == 'GET':
         user_input = request.args.get('user_input')
@@ -60,8 +61,7 @@ def graph():
     return render_template('graph.html')
 
 @app.route('/rcm')
-def rcm(sent,KW_dict = KW_dict):
-    #print(KW_dict['google'])
+def rcm(sent,KW_dict = KW_dict_s):
     rcm_company=get_recommendation(user_prf=sent, KW_dict=KW_dict)
     c0 = rcm_company[0].split(':')[-1]
     c1 = rcm_company[1].split(':')[-1]

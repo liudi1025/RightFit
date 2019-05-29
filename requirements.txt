@@ -1,5 +1,5 @@
 gunicorn==19.9.0
 requests==2.20.0
 flask
-nltk
-spacy
+nltk == 3.4.1
+spacy == 2.1.3

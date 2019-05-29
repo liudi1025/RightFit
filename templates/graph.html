@@ -24,19 +24,23 @@
 
         </style>
         <style>
-            body {background-image: url("/static/background.jpg");
+            body {background-color: rgba(100,180,80, 0.3);
                   height: 100%;
                   background-position: center;
                   }
             h1.title {text-align:center;
                      font-size:40px;
-                     font-family:"Comic Sans MS", cursive, sans-serif;
-                     background-color:rgba(255,165,0,0.6)
+                     font-family:'Arial Black', Gadget, sans-serif;
+                     background-color:rgba(250,100,20,0.5)
                   }
+            h2 {font-size:30px;
+                font-family:'Arial Black', Gadget, sans-serif;
+                background-color:rgba(255,255,255,0.8)
+                }
         </style>
     </head>
     <body>
-        <h1 class='title'> Below are the  WordCloud, Violin Plot and Topic Modeling results. </h1>
+        <h1 class='title'> Below are the wordcloud, violin plot and topic modeling results. </h1>
         <!--<div class="row" align="center">
           <div class="column" style="margin-top: 0px" align="right">
 
@@ -48,18 +52,22 @@
         </div> -->
 
         <div align="center">
+            <h2> Here is the wordcloud plot, showing the keywords of {{company}}.</h2>
             <img src="static/WordClouds/{{company}}_wordcloud.jpg" alt="WordCloud" style="width:30%;background-color: Snow;">
         </div>
 
         <div align="center">
-            <iframe src="static/ViolinPlots/{{company}}_Violin.jpg" alt="Violin Plot" style="background-color: Snow;" width='1280' height='450'></iframe>
+            <h2> Here is the violin plot, showing the six different rating stars distribution of {{company}}.</h2>
+            <iframe src="static/ViolinPlot/{{company}}_Violin.jpg" alt="Violin Plot" style="background-color: Snow;" width='1280' height='450'></iframe>
         </div>
 
         <div align="center">
+            <h2> Here is the topic modeling plot, showing four main topics of {{company}}.</h2>
             <iframe src="static/LDA_plot/{{company}}.html" style="background-color: Snow;" width="1280" height="900" ></iframe>
         </div>
 
         <div align="center">
+
             <button onclick="goBack()" style="font-size:24px"> Home </button>
         </div>
 
