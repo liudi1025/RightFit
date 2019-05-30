@@ -52,7 +52,7 @@ def login():
     if request.method == 'POST':
         target_company = request.form['target_company']
         company = target_company.capitalize()
-        return render_template('graph.html', company=company)
+        return render_template('graph.html', company=company, target=target_company)
     if request.method == 'GET':
         user_input = request.args.get('user_input')
         return rcm(user_input)
