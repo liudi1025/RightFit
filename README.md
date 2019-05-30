@@ -6,3 +6,9 @@ The objective of this project is to help jobhunters better understand the potent
 
 There are three parts in this project: webscraping from Glassdoor reviews, keyword extraction and recommendation.
 
+The workflow of the project is showing below figure:
+<img width="838" alt="Capture" src="https://user-images.githubusercontent.com/40007543/58638746-771af600-82c3-11e9-8779-9682b4ad8213.PNG">
+
+A website is generated at below link:
+https://rightfit.herokuapp.com/
+
