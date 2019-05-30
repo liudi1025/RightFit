@@ -1,4 +1,4 @@
-# rightfit_v1
+# RightFit App
 
 This is Di Liu's The Data Incubation(TDI) capstone project.
 
