@@ -51,8 +51,9 @@ def index():
 def login():
     if request.method == 'POST':
         target_company = request.form['target_company']
+        target = target_company.lower()
         company = target_company.capitalize()
-        return render_template('graph.html', company=company, target=target_company)
+        return render_template('graph.html', company=company, target=target)
     if request.method == 'GET':
         user_input = request.args.get('user_input')
         return rcm(user_input)
