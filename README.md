@@ -1,6 +1,6 @@
 # rightfit_v1
 
-This is Di Liu's TDI capstone project.
+This is Di Liu's The Data Incubation(TDI) capstone project.
 
 The objective of this project is to help jobhunters better understand the potential companies during the job searching process.
 
@@ -11,4 +11,6 @@ The workflow of the project is showing below figure:
 
 A website is generated at below link:
 https://rightfit.herokuapp.com/
+
+* This project is selected as one of the pitch night presentation in TDI 2019 Spring Cohort.
 
