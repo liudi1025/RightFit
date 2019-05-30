@@ -12,5 +12,5 @@ The workflow of the project is showing below figure:
 A website is generated at below link:
 https://rightfit.herokuapp.com/
 
-* This project is selected as one of the pitch night presentation in TDI 2019 Spring Cohort.
+** This project is selected as one of the pitch night presentation in TDI 2019 Spring Cohort.
 
