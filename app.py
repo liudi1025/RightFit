@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request,redirect, url_for
 import pickle
 
-import nltk
+#import nltk
 #nltk.download('stopwords');
 #nltk.download('punkt');
 import spacy
@@ -11,19 +11,23 @@ KW_dict = pickle.load(open("Keyword.pkl", "rb"))
 KW_dict_s = pickle.load(open("Keyword_s.pkl", "rb"))
 Topic_dict = pickle.load(open("Topic.pkl", "rb"))
 
-stopwords = nltk.corpus.stopwords.words('english')
-stopwords.extend(['the','i','you','a','c','slu','them','she','he','company'])
-stopwords.extend(KW_dict.keys())
+#from spacy.lang.en.stop_words import STOP_WORDS
+#stopwords = list(STOP_WORDS)
+#stopwords = nltk.corpus.stopwords.words('english')
+#stopwords.extend(['the','i','you','a','c','slu','them','she','he','company'])
+#stopwords.extend(KW_dict.keys())
 
 def get_recommendation(user_prf, KW_dict):
+    '''
     def stopword_RMV(sent):
         res = []
         for word in sent.split():
             if word.lower() not in stopwords:
                 res.append(word)
         return ' '.join(res)
-
-    doc0 = nlp(stopword_RMV(user_prf))
+    '''
+    #doc0 = nlp(stopword_RMV(user_prf))
+    doc0 = nlp(user_prf)
     score_dict = {}
     for k, v in KW_dict.items():
         temp_doc = nlp(v)

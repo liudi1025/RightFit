@@ -2,120 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daecfe97-6604-4d32-a554-55b140aaa850" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/3m_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/abbott laboratories_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/abbvie_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/accenture_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/adobe_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/agricultural bank of china_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/aia group_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/airbnb_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/alibaba_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/allianz_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/alphabet_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/altria_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/amazon_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/amgen_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/anheuser-busch inbev_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/apple_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/at&amp;t_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/bank of america_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/bank of china_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/bayer_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/berkshire hathaway_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/boeing_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/bp_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/british american tobacco_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/broadcom_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/capitalone_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/chevron_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/china life insurance_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/china merchants bank_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/china mobile_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/cisco_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/citi_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/coca-cola_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/comcast_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/deloitte_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/dupont_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/exxonmobil_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/facebook_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/general electric_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/glaxo smith kline_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/google_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/home depot_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/honeywell_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/hsbc_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/ibm_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/icbc_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/inditex_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/intel_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/johnson&amp;johnson_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/jpmorgan_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/linkedin_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/loreal_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/lyft_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/mastercard_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/mcdonald_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/medtronic_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/merck_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/microsoft_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/morgan stanley_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/naspers_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/nestle_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/netflix_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/nike_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/novartis_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/novo nordisk_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/nvidia_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/oracle_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/pepsico_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/petro china_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/pfizer_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/philip morris_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/ping an insurance group_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/point72_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/procter gamble_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/riotinto_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/roche_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/royal bank of canada_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/salesforce_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/samsung electronics_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/santander_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/sap_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/schlumberger_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/shell_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/siemens_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/sinopec_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/slack_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/spotify_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/taiwan semiconductor_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/target_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/tata consultancy services_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/td bank_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/tencent_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/tesla_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/texas instruments_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/total_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/toyota_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/uber_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/unilever_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/union pacific_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/united health group_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/united technologies_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/ups_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/verizon_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/visa_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/volkswagen group_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/walt disney_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/ViolinPlots/wells fargo_Violin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/graph.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/graph.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rcm.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rcm.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,14 +19,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+            <state relative-caret-position="-187">
+              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#0#67#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -209,11 +109,11 @@
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/conda-requirements" />
         <option value="$PROJECT_DIR$/conda-requirements.txt" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/rcm.html" />
         <option value="$PROJECT_DIR$/templates/login.html" />
         <option value="$PROJECT_DIR$/templates/graph.html" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
       </list>
     </option>
   </component>
@@ -234,18 +134,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="rightfit_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rightfit_v1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -324,6 +214,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
@@ -333,13 +232,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49638554" weight="0.19538188" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49638554" weight="0.312611" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.28019926" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4994062" weight="0.32876712" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3285968" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4994062" weight="0.092362344" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5036145" side_tool="true" weight="0.2" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -385,23 +284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
@@ -437,6 +319,23 @@
             <element signature="n#style#0;n#h3#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
